@@ -1,2 +1,2 @@
-# **Bem vindos ao meu GitHub!**
+# **Bem vindo ao meu GitHub!**
 Lorem Ipsum
